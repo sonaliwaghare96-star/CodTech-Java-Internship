@@ -1,6 +1,6 @@
 Task 1 - File Handling Utility
 
-Description
+Description-
 This is a Java program to perform file handling operations.
 
 Features
@@ -8,8 +8,8 @@ Features
 - Read file content
 - Append data
 
-Output
+Output-
 ![Output](output.png)
 
-Author
+Author-
 Sonali Waghare
