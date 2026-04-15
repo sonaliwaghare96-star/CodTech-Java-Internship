@@ -9,7 +9,7 @@ Features
 - Append data
 
 Output-
-![Output](Screenshot 2026-04-15 225227.png)
+![Output](Output.png)
 
 Author-
 Sonali Waghare
