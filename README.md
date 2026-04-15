@@ -9,7 +9,7 @@ Features
 - Append data
 
 Output-
-![Output](https://github.com/sonaliwaghare96-star/CodTech-Java-Internship/blob/main/Screenshot%202026-04-15%20225227.png)
+![Output](Screenshot 2026-04-15 225227.png)
 
 Author-
 Sonali Waghare
