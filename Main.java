@@ -9,7 +9,7 @@ public class Main {
 
         try {
             // STEP 1: API URL (Nagpur weather)
-            String urlString = "https://api.openweathermap.org/data/2.5/weather?q=Nagpur&appid=00e1fc60c05dab9b62413c59985a7746&units=metric";
+            String urlString = "MY_API_kEY";
 
             // STEP 2: Create URL object
             URL url = new URL(urlString);
